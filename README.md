@@ -1,4 +1,4 @@
-# flutter_application_1
+# Tetromino game
 
 A new Flutter project.
 
