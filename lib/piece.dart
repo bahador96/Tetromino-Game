@@ -528,7 +528,7 @@ class Piece {
               position[2] - rowLength,
               position[2] - 1,
               position[2],
-              position[3] + 1,
+              position[2] + 1,
             ];
             if (piecePostitionIsValid(newPosition)) {
               // update position
